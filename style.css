@@ -1,0 +1,41 @@
+body
+{
+	background: url("images/NuageKarim.jpg");
+		text-align: center;
+    font-family: Verdana
+
+}
+
+h1
+{
+	font-size: 44px;
+	border: 3px yellow groove;
+	border-radius: 20px / 10px;
+	color: rosybrown;
+	text-shadow: 6px 6px 6px rgb(3, 2, 0);
+}
+
+h2
+{
+	color: rosybrown;
+}
+
+h3
+{
+	color: rosybrown;
+}
+li
+{
+	color:rgb(243, 245, 118);	
+	font-size: 19px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p
+{
+	font-size: 24px;
+	
+}
+a:hover 
+{
+	color:rgb(243, 245, 118)
+}
